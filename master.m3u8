@@ -5,6 +5,6 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Español España",LANGUAGE="es",URI="Sed_de_venganza_2_(2024)_Web-Dl_1080p_Lat-Cast_audio_espana.m3u8",DEFAULT=NO,AUTOSELECT=NO
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Portugués",LANGUAGE="pt",URI="Sed_de_venganza_2_(2024)_Web-Dl_1080p_Lat-Cast_audio_portugues.m3u8",DEFAULT=NO,AUTOSELECT=NO
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=1920x1080,CODECS="mp4a.40.2,avc1.640028",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE,AUDIO="audio"
-"Sed_de_venganza_2_(2024)_Web-Dl_1080p_Lat-Cast_video.m3u8"
+Sed_de_venganza_2_(2024)_Web-Dl_1080p_Lat-Cast_video.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1370000,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.4d401f",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE,AUDIO="audio"
-"Sed_de_venganza_2_(2024)_Web-Dl_1080p_Lat-Cast_video.m3u8"
+Sed_de_venganza_2_(2024)_Web-Dl_1080p_Lat-Cast_video.m3u8
